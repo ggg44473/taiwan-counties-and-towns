@@ -36,9 +36,9 @@ def main():
     json_string_towns = json.dumps(towns, indent=2, ensure_ascii=False)
 
     # Writing to file. UTF-8 mode default since Python3.15. (https://peps.python.org/pep-0686)
-    with open("counties.json", "w") as outfile_counties:
+    with open("Taiwan/counties.json", "w") as outfile_counties:
         outfile_counties.write(json_string_counties)
-    with open("towns.json", "w") as outfile_towns:
+    with open("Taiwan/towns.json", "w") as outfile_towns:
         outfile_towns.write(json_string_towns)
 
 

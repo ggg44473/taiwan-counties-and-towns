@@ -1,0 +1,1502 @@
+{
+  "A": [
+    {
+      "towncode": "A01",
+      "townname": "松山區"
+    },
+    {
+      "towncode": "A02",
+      "townname": "大安區"
+    },
+    {
+      "towncode": "A03",
+      "townname": "中正區"
+    },
+    {
+      "towncode": "A05",
+      "townname": "萬華區"
+    },
+    {
+      "towncode": "A09",
+      "townname": "大同區"
+    },
+    {
+      "towncode": "A10",
+      "townname": "中山區"
+    },
+    {
+      "towncode": "A11",
+      "townname": "文山區"
+    },
+    {
+      "towncode": "A13",
+      "townname": "南港區"
+    },
+    {
+      "towncode": "A14",
+      "townname": "內湖區"
+    },
+    {
+      "towncode": "A15",
+      "townname": "士林區"
+    },
+    {
+      "towncode": "A16",
+      "townname": "北投區"
+    },
+    {
+      "towncode": "A17",
+      "townname": "信義區"
+    }
+  ],
+  "B": [
+    {
+      "towncode": "B01",
+      "townname": "中區"
+    },
+    {
+      "towncode": "B02",
+      "townname": "東區"
+    },
+    {
+      "towncode": "B03",
+      "townname": "南區"
+    },
+    {
+      "towncode": "B04",
+      "townname": "西區"
+    },
+    {
+      "towncode": "B05",
+      "townname": "北區"
+    },
+    {
+      "towncode": "B06",
+      "townname": "西屯區"
+    },
+    {
+      "towncode": "B07",
+      "townname": "南屯區"
+    },
+    {
+      "towncode": "B08",
+      "townname": "北屯區"
+    },
+    {
+      "towncode": "B09",
+      "townname": "豐原區"
+    },
+    {
+      "towncode": "B10",
+      "townname": "東勢區"
+    },
+    {
+      "towncode": "B11",
+      "townname": "大甲區"
+    },
+    {
+      "towncode": "B12",
+      "townname": "清水區"
+    },
+    {
+      "towncode": "B13",
+      "townname": "沙鹿區"
+    },
+    {
+      "towncode": "B14",
+      "townname": "梧棲區"
+    },
+    {
+      "towncode": "B15",
+      "townname": "后里區"
+    },
+    {
+      "towncode": "B16",
+      "townname": "神岡區"
+    },
+    {
+      "towncode": "B17",
+      "townname": "潭子區"
+    },
+    {
+      "towncode": "B18",
+      "townname": "大雅區"
+    },
+    {
+      "towncode": "B19",
+      "townname": "新社區"
+    },
+    {
+      "towncode": "B20",
+      "townname": "石岡區"
+    },
+    {
+      "towncode": "B21",
+      "townname": "外埔區"
+    },
+    {
+      "towncode": "B22",
+      "townname": "大安區"
+    },
+    {
+      "towncode": "B23",
+      "townname": "烏日區"
+    },
+    {
+      "towncode": "B24",
+      "townname": "大肚區"
+    },
+    {
+      "towncode": "B25",
+      "townname": "龍井區"
+    },
+    {
+      "towncode": "B26",
+      "townname": "霧峰區"
+    },
+    {
+      "towncode": "B27",
+      "townname": "太平區"
+    },
+    {
+      "towncode": "B28",
+      "townname": "大里區"
+    },
+    {
+      "towncode": "B29",
+      "townname": "和平區"
+    }
+  ],
+  "C": [
+    {
+      "towncode": "C01",
+      "townname": "中正區"
+    },
+    {
+      "towncode": "C02",
+      "townname": "七堵區"
+    },
+    {
+      "towncode": "C03",
+      "townname": "暖暖區"
+    },
+    {
+      "towncode": "C04",
+      "townname": "仁愛區"
+    },
+    {
+      "towncode": "C05",
+      "townname": "中山區"
+    },
+    {
+      "towncode": "C06",
+      "townname": "安樂區"
+    },
+    {
+      "towncode": "C07",
+      "townname": "信義區"
+    }
+  ],
+  "D": [
+    {
+      "towncode": "D01",
+      "townname": "東區"
+    },
+    {
+      "towncode": "D02",
+      "townname": "南區"
+    },
+    {
+      "towncode": "D04",
+      "townname": "北區"
+    },
+    {
+      "towncode": "D06",
+      "townname": "安南區"
+    },
+    {
+      "towncode": "D07",
+      "townname": "安平區"
+    },
+    {
+      "towncode": "D08",
+      "townname": "中西區"
+    },
+    {
+      "towncode": "D09",
+      "townname": "新營區"
+    },
+    {
+      "towncode": "D10",
+      "townname": "鹽水區"
+    },
+    {
+      "towncode": "D11",
+      "townname": "柳營區"
+    },
+    {
+      "towncode": "D12",
+      "townname": "白河區"
+    },
+    {
+      "towncode": "D13",
+      "townname": "後壁區"
+    },
+    {
+      "towncode": "D14",
+      "townname": "東山區"
+    },
+    {
+      "towncode": "D15",
+      "townname": "麻豆區"
+    },
+    {
+      "towncode": "D16",
+      "townname": "下營區"
+    },
+    {
+      "towncode": "D17",
+      "townname": "六甲區"
+    },
+    {
+      "towncode": "D18",
+      "townname": "官田區"
+    },
+    {
+      "towncode": "D19",
+      "townname": "大內區"
+    },
+    {
+      "towncode": "D20",
+      "townname": "佳里區"
+    },
+    {
+      "towncode": "D21",
+      "townname": "西港區"
+    },
+    {
+      "towncode": "D22",
+      "townname": "七股區"
+    },
+    {
+      "towncode": "D23",
+      "townname": "將軍區"
+    },
+    {
+      "towncode": "D24",
+      "townname": "北門區"
+    },
+    {
+      "towncode": "D25",
+      "townname": "學甲區"
+    },
+    {
+      "towncode": "D26",
+      "townname": "新化區"
+    },
+    {
+      "towncode": "D27",
+      "townname": "善化區"
+    },
+    {
+      "towncode": "D28",
+      "townname": "新市區"
+    },
+    {
+      "towncode": "D29",
+      "townname": "安定區"
+    },
+    {
+      "towncode": "D30",
+      "townname": "山上區"
+    },
+    {
+      "towncode": "D31",
+      "townname": "左鎮區"
+    },
+    {
+      "towncode": "D32",
+      "townname": "仁德區"
+    },
+    {
+      "towncode": "D33",
+      "townname": "歸仁區"
+    },
+    {
+      "towncode": "D34",
+      "townname": "關廟區"
+    },
+    {
+      "towncode": "D35",
+      "townname": "龍崎區"
+    },
+    {
+      "towncode": "D36",
+      "townname": "玉井區"
+    },
+    {
+      "towncode": "D37",
+      "townname": "楠西區"
+    },
+    {
+      "towncode": "D38",
+      "townname": "南化區"
+    },
+    {
+      "towncode": "D39",
+      "townname": "永康區"
+    }
+  ],
+  "E": [
+    {
+      "towncode": "E01",
+      "townname": "鹽埕區"
+    },
+    {
+      "towncode": "E02",
+      "townname": "鼓山區"
+    },
+    {
+      "towncode": "E03",
+      "townname": "左營區"
+    },
+    {
+      "towncode": "E04",
+      "townname": "楠梓區"
+    },
+    {
+      "towncode": "E05",
+      "townname": "三民區"
+    },
+    {
+      "towncode": "E06",
+      "townname": "新興區"
+    },
+    {
+      "towncode": "E07",
+      "townname": "前金區"
+    },
+    {
+      "towncode": "E08",
+      "townname": "苓雅區"
+    },
+    {
+      "towncode": "E09",
+      "townname": "前鎮區"
+    },
+    {
+      "towncode": "E10",
+      "townname": "旗津區"
+    },
+    {
+      "towncode": "E11",
+      "townname": "小港區"
+    },
+    {
+      "towncode": "E12",
+      "townname": "鳳山區"
+    },
+    {
+      "towncode": "E13",
+      "townname": "林園區"
+    },
+    {
+      "towncode": "E14",
+      "townname": "大寮區"
+    },
+    {
+      "towncode": "E15",
+      "townname": "大樹區"
+    },
+    {
+      "towncode": "E16",
+      "townname": "大社區"
+    },
+    {
+      "towncode": "E17",
+      "townname": "仁武區"
+    },
+    {
+      "towncode": "E18",
+      "townname": "鳥松區"
+    },
+    {
+      "towncode": "E19",
+      "townname": "岡山區"
+    },
+    {
+      "towncode": "E20",
+      "townname": "橋頭區"
+    },
+    {
+      "towncode": "E21",
+      "townname": "燕巢區"
+    },
+    {
+      "towncode": "E22",
+      "townname": "田寮區"
+    },
+    {
+      "towncode": "E23",
+      "townname": "阿蓮區"
+    },
+    {
+      "towncode": "E24",
+      "townname": "路竹區"
+    },
+    {
+      "towncode": "E25",
+      "townname": "湖內區"
+    },
+    {
+      "towncode": "E26",
+      "townname": "茄萣區"
+    },
+    {
+      "towncode": "E27",
+      "townname": "永安區"
+    },
+    {
+      "towncode": "E28",
+      "townname": "彌陀區"
+    },
+    {
+      "towncode": "E29",
+      "townname": "梓官區"
+    },
+    {
+      "towncode": "E30",
+      "townname": "旗山區"
+    },
+    {
+      "towncode": "E31",
+      "townname": "美濃區"
+    },
+    {
+      "towncode": "E32",
+      "townname": "六龜區"
+    },
+    {
+      "towncode": "E33",
+      "townname": "甲仙區"
+    },
+    {
+      "towncode": "E34",
+      "townname": "杉林區"
+    },
+    {
+      "towncode": "E35",
+      "townname": "內門區"
+    },
+    {
+      "towncode": "E36",
+      "townname": "茂林區"
+    },
+    {
+      "towncode": "E37",
+      "townname": "桃源區"
+    },
+    {
+      "towncode": "E38",
+      "townname": "那瑪夏區"
+    }
+  ],
+  "F": [
+    {
+      "towncode": "F01",
+      "townname": "新莊區"
+    },
+    {
+      "towncode": "F02",
+      "townname": "林口區"
+    },
+    {
+      "towncode": "F03",
+      "townname": "五股區"
+    },
+    {
+      "towncode": "F04",
+      "townname": "蘆洲區"
+    },
+    {
+      "towncode": "F05",
+      "townname": "三重區"
+    },
+    {
+      "towncode": "F06",
+      "townname": "泰山區"
+    },
+    {
+      "towncode": "F07",
+      "townname": "新店區"
+    },
+    {
+      "towncode": "F08",
+      "townname": "石碇區"
+    },
+    {
+      "towncode": "F09",
+      "townname": "深坑區"
+    },
+    {
+      "towncode": "F10",
+      "townname": "坪林區"
+    },
+    {
+      "towncode": "F11",
+      "townname": "烏來區"
+    },
+    {
+      "towncode": "F14",
+      "townname": "板橋區"
+    },
+    {
+      "towncode": "F15",
+      "townname": "三峽區"
+    },
+    {
+      "towncode": "F16",
+      "townname": "鶯歌區"
+    },
+    {
+      "towncode": "F17",
+      "townname": "樹林區"
+    },
+    {
+      "towncode": "F18",
+      "townname": "中和區"
+    },
+    {
+      "towncode": "F19",
+      "townname": "土城區"
+    },
+    {
+      "towncode": "F21",
+      "townname": "瑞芳區"
+    },
+    {
+      "towncode": "F22",
+      "townname": "平溪區"
+    },
+    {
+      "towncode": "F23",
+      "townname": "雙溪區"
+    },
+    {
+      "towncode": "F24",
+      "townname": "貢寮區"
+    },
+    {
+      "towncode": "F25",
+      "townname": "金山區"
+    },
+    {
+      "towncode": "F26",
+      "townname": "萬里區"
+    },
+    {
+      "towncode": "F27",
+      "townname": "淡水區"
+    },
+    {
+      "towncode": "F28",
+      "townname": "汐止區"
+    },
+    {
+      "towncode": "F30",
+      "townname": "三芝區"
+    },
+    {
+      "towncode": "F31",
+      "townname": "石門區"
+    },
+    {
+      "towncode": "F32",
+      "townname": "八里區"
+    },
+    {
+      "towncode": "F33",
+      "townname": "永和區"
+    }
+  ],
+  "G": [
+    {
+      "towncode": "G01",
+      "townname": "宜蘭市"
+    },
+    {
+      "towncode": "G02",
+      "townname": "頭城鎮"
+    },
+    {
+      "towncode": "G03",
+      "townname": "礁溪鄉"
+    },
+    {
+      "towncode": "G04",
+      "townname": "壯圍鄉"
+    },
+    {
+      "towncode": "G05",
+      "townname": "員山鄉"
+    },
+    {
+      "towncode": "G06",
+      "townname": "羅東鎮"
+    },
+    {
+      "towncode": "G07",
+      "townname": "五結鄉"
+    },
+    {
+      "towncode": "G08",
+      "townname": "冬山鄉"
+    },
+    {
+      "towncode": "G09",
+      "townname": "蘇澳鎮"
+    },
+    {
+      "towncode": "G10",
+      "townname": "三星鄉"
+    },
+    {
+      "towncode": "G11",
+      "townname": "大同鄉"
+    },
+    {
+      "towncode": "G12",
+      "townname": "南澳鄉"
+    }
+  ],
+  "H": [
+    {
+      "towncode": "H01",
+      "townname": "桃園區"
+    },
+    {
+      "towncode": "H02",
+      "townname": "大溪區"
+    },
+    {
+      "towncode": "H03",
+      "townname": "中壢區"
+    },
+    {
+      "towncode": "H04",
+      "townname": "楊梅區"
+    },
+    {
+      "towncode": "H05",
+      "townname": "蘆竹區"
+    },
+    {
+      "towncode": "H06",
+      "townname": "大園區"
+    },
+    {
+      "towncode": "H07",
+      "townname": "龜山區"
+    },
+    {
+      "towncode": "H08",
+      "townname": "八德區"
+    },
+    {
+      "towncode": "H09",
+      "townname": "龍潭區"
+    },
+    {
+      "towncode": "H10",
+      "townname": "平鎮區"
+    },
+    {
+      "towncode": "H11",
+      "townname": "新屋區"
+    },
+    {
+      "towncode": "H12",
+      "townname": "觀音區"
+    },
+    {
+      "towncode": "H13",
+      "townname": "復興區"
+    }
+  ],
+  "I": {
+    "towncode": "I01",
+    "townname": "嘉義市"
+  },
+  "J": [
+    {
+      "towncode": "J02",
+      "townname": "竹東鎮"
+    },
+    {
+      "towncode": "J03",
+      "townname": "關西鎮"
+    },
+    {
+      "towncode": "J04",
+      "townname": "新埔鎮"
+    },
+    {
+      "towncode": "J05",
+      "townname": "竹北市"
+    },
+    {
+      "towncode": "J06",
+      "townname": "湖口鄉"
+    },
+    {
+      "towncode": "J08",
+      "townname": "橫山鄉"
+    },
+    {
+      "towncode": "J09",
+      "townname": "新豐鄉"
+    },
+    {
+      "towncode": "J10",
+      "townname": "芎林鄉"
+    },
+    {
+      "towncode": "J11",
+      "townname": "寶山鄉"
+    },
+    {
+      "towncode": "J12",
+      "townname": "北埔鄉"
+    },
+    {
+      "towncode": "J13",
+      "townname": "峨眉鄉"
+    },
+    {
+      "towncode": "J14",
+      "townname": "尖石鄉"
+    },
+    {
+      "towncode": "J15",
+      "townname": "五峰鄉"
+    }
+  ],
+  "K": [
+    {
+      "towncode": "K01",
+      "townname": "苗栗市"
+    },
+    {
+      "towncode": "K02",
+      "townname": "苑裡鎮"
+    },
+    {
+      "towncode": "K03",
+      "townname": "通霄鎮"
+    },
+    {
+      "towncode": "K04",
+      "townname": "公館鄉"
+    },
+    {
+      "towncode": "K05",
+      "townname": "銅鑼鄉"
+    },
+    {
+      "towncode": "K06",
+      "townname": "三義鄉"
+    },
+    {
+      "towncode": "K07",
+      "townname": "西湖鄉"
+    },
+    {
+      "towncode": "K08",
+      "townname": "頭屋鄉"
+    },
+    {
+      "towncode": "K09",
+      "townname": "竹南鎮"
+    },
+    {
+      "towncode": "K10",
+      "townname": "頭份市"
+    },
+    {
+      "towncode": "K11",
+      "townname": "造橋鄉"
+    },
+    {
+      "towncode": "K12",
+      "townname": "後龍鎮"
+    },
+    {
+      "towncode": "K13",
+      "townname": "三灣鄉"
+    },
+    {
+      "towncode": "K14",
+      "townname": "南庄鄉"
+    },
+    {
+      "towncode": "K15",
+      "townname": "大湖鄉"
+    },
+    {
+      "towncode": "K16",
+      "townname": "卓蘭鎮"
+    },
+    {
+      "towncode": "K17",
+      "townname": "獅潭鄉"
+    },
+    {
+      "towncode": "K18",
+      "townname": "泰安鄉"
+    }
+  ],
+  "M": [
+    {
+      "towncode": "M01",
+      "townname": "南投市"
+    },
+    {
+      "towncode": "M02",
+      "townname": "埔里鎮"
+    },
+    {
+      "towncode": "M03",
+      "townname": "草屯鎮"
+    },
+    {
+      "towncode": "M04",
+      "townname": "竹山鎮"
+    },
+    {
+      "towncode": "M05",
+      "townname": "集集鎮"
+    },
+    {
+      "towncode": "M06",
+      "townname": "名間鄉"
+    },
+    {
+      "towncode": "M07",
+      "townname": "鹿谷鄉"
+    },
+    {
+      "towncode": "M08",
+      "townname": "中寮鄉"
+    },
+    {
+      "towncode": "M09",
+      "townname": "魚池鄉"
+    },
+    {
+      "towncode": "M10",
+      "townname": "國姓鄉"
+    },
+    {
+      "towncode": "M11",
+      "townname": "水里鄉"
+    },
+    {
+      "towncode": "M12",
+      "townname": "信義鄉"
+    },
+    {
+      "towncode": "M13",
+      "townname": "仁愛鄉"
+    }
+  ],
+  "N": [
+    {
+      "towncode": "N01",
+      "townname": "彰化市"
+    },
+    {
+      "towncode": "N02",
+      "townname": "鹿港鎮"
+    },
+    {
+      "towncode": "N03",
+      "townname": "和美鎮"
+    },
+    {
+      "towncode": "N04",
+      "townname": "北斗鎮"
+    },
+    {
+      "towncode": "N05",
+      "townname": "員林市"
+    },
+    {
+      "towncode": "N06",
+      "townname": "溪湖鎮"
+    },
+    {
+      "towncode": "N07",
+      "townname": "田中鎮"
+    },
+    {
+      "towncode": "N08",
+      "townname": "二林鎮"
+    },
+    {
+      "towncode": "N09",
+      "townname": "線西鄉"
+    },
+    {
+      "towncode": "N10",
+      "townname": "伸港鄉"
+    },
+    {
+      "towncode": "N11",
+      "townname": "福興鄉"
+    },
+    {
+      "towncode": "N12",
+      "townname": "秀水鄉"
+    },
+    {
+      "towncode": "N13",
+      "townname": "花壇鄉"
+    },
+    {
+      "towncode": "N14",
+      "townname": "芬園鄉"
+    },
+    {
+      "towncode": "N15",
+      "townname": "大村鄉"
+    },
+    {
+      "towncode": "N16",
+      "townname": "埔鹽鄉"
+    },
+    {
+      "towncode": "N17",
+      "townname": "埔心鄉"
+    },
+    {
+      "towncode": "N18",
+      "townname": "永靖鄉"
+    },
+    {
+      "towncode": "N19",
+      "townname": "社頭鄉"
+    },
+    {
+      "towncode": "N20",
+      "townname": "二水鄉"
+    },
+    {
+      "towncode": "N21",
+      "townname": "田尾鄉"
+    },
+    {
+      "towncode": "N22",
+      "townname": "埤頭鄉"
+    },
+    {
+      "towncode": "N23",
+      "townname": "芳苑鄉"
+    },
+    {
+      "towncode": "N24",
+      "townname": "大城鄉"
+    },
+    {
+      "towncode": "N25",
+      "townname": "竹塘鄉"
+    },
+    {
+      "towncode": "N26",
+      "townname": "溪州鄉"
+    }
+  ],
+  "O": {
+    "towncode": "O01",
+    "townname": "新竹市"
+  },
+  "P": [
+    {
+      "towncode": "P01",
+      "townname": "斗六市"
+    },
+    {
+      "towncode": "P02",
+      "townname": "斗南鎮"
+    },
+    {
+      "towncode": "P03",
+      "townname": "虎尾鎮"
+    },
+    {
+      "towncode": "P04",
+      "townname": "西螺鎮"
+    },
+    {
+      "towncode": "P05",
+      "townname": "土庫鎮"
+    },
+    {
+      "towncode": "P06",
+      "townname": "北港鎮"
+    },
+    {
+      "towncode": "P07",
+      "townname": "古坑鄉"
+    },
+    {
+      "towncode": "P08",
+      "townname": "大埤鄉"
+    },
+    {
+      "towncode": "P09",
+      "townname": "莿桐鄉"
+    },
+    {
+      "towncode": "P10",
+      "townname": "林內鄉"
+    },
+    {
+      "towncode": "P11",
+      "townname": "二崙鄉"
+    },
+    {
+      "towncode": "P12",
+      "townname": "崙背鄉"
+    },
+    {
+      "towncode": "P13",
+      "townname": "麥寮鄉"
+    },
+    {
+      "towncode": "P14",
+      "townname": "東勢鄉"
+    },
+    {
+      "towncode": "P15",
+      "townname": "褒忠鄉"
+    },
+    {
+      "towncode": "P16",
+      "townname": "臺西鄉"
+    },
+    {
+      "towncode": "P17",
+      "townname": "元長鄉"
+    },
+    {
+      "towncode": "P18",
+      "townname": "四湖鄉"
+    },
+    {
+      "towncode": "P19",
+      "townname": "口湖鄉"
+    },
+    {
+      "towncode": "P20",
+      "townname": "水林鄉"
+    }
+  ],
+  "Q": [
+    {
+      "towncode": "Q02",
+      "townname": "朴子市"
+    },
+    {
+      "towncode": "Q03",
+      "townname": "布袋鎮"
+    },
+    {
+      "towncode": "Q04",
+      "townname": "大林鎮"
+    },
+    {
+      "towncode": "Q05",
+      "townname": "民雄鄉"
+    },
+    {
+      "towncode": "Q06",
+      "townname": "溪口鄉"
+    },
+    {
+      "towncode": "Q07",
+      "townname": "新港鄉"
+    },
+    {
+      "towncode": "Q08",
+      "townname": "六腳鄉"
+    },
+    {
+      "towncode": "Q09",
+      "townname": "東石鄉"
+    },
+    {
+      "towncode": "Q10",
+      "townname": "義竹鄉"
+    },
+    {
+      "towncode": "Q11",
+      "townname": "鹿草鄉"
+    },
+    {
+      "towncode": "Q12",
+      "townname": "太保市"
+    },
+    {
+      "towncode": "Q13",
+      "townname": "水上鄉"
+    },
+    {
+      "towncode": "Q14",
+      "townname": "中埔鄉"
+    },
+    {
+      "towncode": "Q15",
+      "townname": "竹崎鄉"
+    },
+    {
+      "towncode": "Q16",
+      "townname": "梅山鄉"
+    },
+    {
+      "towncode": "Q17",
+      "townname": "番路鄉"
+    },
+    {
+      "towncode": "Q18",
+      "townname": "大埔鄉"
+    },
+    {
+      "towncode": "Q20",
+      "townname": "阿里山鄉"
+    }
+  ],
+  "T": [
+    {
+      "towncode": "T01",
+      "townname": "屏東市"
+    },
+    {
+      "towncode": "T02",
+      "townname": "潮州鎮"
+    },
+    {
+      "towncode": "T03",
+      "townname": "東港鎮"
+    },
+    {
+      "towncode": "T04",
+      "townname": "恆春鎮"
+    },
+    {
+      "towncode": "T05",
+      "townname": "萬丹鄉"
+    },
+    {
+      "towncode": "T06",
+      "townname": "長治鄉"
+    },
+    {
+      "towncode": "T07",
+      "townname": "麟洛鄉"
+    },
+    {
+      "towncode": "T08",
+      "townname": "九如鄉"
+    },
+    {
+      "towncode": "T09",
+      "townname": "里港鄉"
+    },
+    {
+      "towncode": "T10",
+      "townname": "鹽埔鄉"
+    },
+    {
+      "towncode": "T11",
+      "townname": "高樹鄉"
+    },
+    {
+      "towncode": "T12",
+      "townname": "萬巒鄉"
+    },
+    {
+      "towncode": "T13",
+      "townname": "內埔鄉"
+    },
+    {
+      "towncode": "T14",
+      "townname": "竹田鄉"
+    },
+    {
+      "towncode": "T15",
+      "townname": "新埤鄉"
+    },
+    {
+      "towncode": "T16",
+      "townname": "枋寮鄉"
+    },
+    {
+      "towncode": "T17",
+      "townname": "新園鄉"
+    },
+    {
+      "towncode": "T18",
+      "townname": "崁頂鄉"
+    },
+    {
+      "towncode": "T19",
+      "townname": "林邊鄉"
+    },
+    {
+      "towncode": "T20",
+      "townname": "南州鄉"
+    },
+    {
+      "towncode": "T21",
+      "townname": "佳冬鄉"
+    },
+    {
+      "towncode": "T22",
+      "townname": "琉球鄉"
+    },
+    {
+      "towncode": "T23",
+      "townname": "車城鄉"
+    },
+    {
+      "towncode": "T24",
+      "townname": "滿州鄉"
+    },
+    {
+      "towncode": "T25",
+      "townname": "枋山鄉"
+    },
+    {
+      "towncode": "T26",
+      "townname": "三地門鄉"
+    },
+    {
+      "towncode": "T27",
+      "townname": "霧臺鄉"
+    },
+    {
+      "towncode": "T28",
+      "townname": "瑪家鄉"
+    },
+    {
+      "towncode": "T29",
+      "townname": "泰武鄉"
+    },
+    {
+      "towncode": "T30",
+      "townname": "來義鄉"
+    },
+    {
+      "towncode": "T31",
+      "townname": "春日鄉"
+    },
+    {
+      "towncode": "T32",
+      "townname": "獅子鄉"
+    },
+    {
+      "towncode": "T33",
+      "townname": "牡丹鄉"
+    }
+  ],
+  "U": [
+    {
+      "towncode": "U01",
+      "townname": "花蓮市"
+    },
+    {
+      "towncode": "U02",
+      "townname": "光復鄉"
+    },
+    {
+      "towncode": "U03",
+      "townname": "玉里鎮"
+    },
+    {
+      "towncode": "U04",
+      "townname": "新城鄉"
+    },
+    {
+      "towncode": "U05",
+      "townname": "吉安鄉"
+    },
+    {
+      "towncode": "U06",
+      "townname": "壽豐鄉"
+    },
+    {
+      "towncode": "U07",
+      "townname": "鳳林鎮"
+    },
+    {
+      "towncode": "U08",
+      "townname": "豐濱鄉"
+    },
+    {
+      "towncode": "U09",
+      "townname": "瑞穗鄉"
+    },
+    {
+      "towncode": "U10",
+      "townname": "富里鄉"
+    },
+    {
+      "towncode": "U11",
+      "townname": "秀林鄉"
+    },
+    {
+      "towncode": "U12",
+      "townname": "萬榮鄉"
+    },
+    {
+      "towncode": "U13",
+      "townname": "卓溪鄉"
+    }
+  ],
+  "V": [
+    {
+      "towncode": "V01",
+      "townname": "臺東市"
+    },
+    {
+      "towncode": "V02",
+      "townname": "成功鎮"
+    },
+    {
+      "towncode": "V03",
+      "townname": "關山鎮"
+    },
+    {
+      "towncode": "V04",
+      "townname": "卑南鄉"
+    },
+    {
+      "towncode": "V05",
+      "townname": "大武鄉"
+    },
+    {
+      "towncode": "V06",
+      "townname": "太麻里鄉"
+    },
+    {
+      "towncode": "V07",
+      "townname": "東河鄉"
+    },
+    {
+      "towncode": "V08",
+      "townname": "長濱鄉"
+    },
+    {
+      "towncode": "V09",
+      "townname": "鹿野鄉"
+    },
+    {
+      "towncode": "V10",
+      "townname": "池上鄉"
+    },
+    {
+      "towncode": "V11",
+      "townname": "綠島鄉"
+    },
+    {
+      "towncode": "V12",
+      "townname": "延平鄉"
+    },
+    {
+      "towncode": "V13",
+      "townname": "海端鄉"
+    },
+    {
+      "towncode": "V14",
+      "townname": "達仁鄉"
+    },
+    {
+      "towncode": "V15",
+      "townname": "金峰鄉"
+    },
+    {
+      "towncode": "V16",
+      "townname": "蘭嶼鄉"
+    }
+  ],
+  "W": [
+    {
+      "towncode": "W01",
+      "townname": "金湖鎮"
+    },
+    {
+      "towncode": "W02",
+      "townname": "金沙鎮"
+    },
+    {
+      "towncode": "W03",
+      "townname": "金城鎮"
+    },
+    {
+      "towncode": "W04",
+      "townname": "金寧鄉"
+    },
+    {
+      "towncode": "W05",
+      "townname": "烈嶼鄉"
+    },
+    {
+      "towncode": "W06",
+      "townname": "烏坵鄉"
+    }
+  ],
+  "X": [
+    {
+      "towncode": "X01",
+      "townname": "馬公市"
+    },
+    {
+      "towncode": "X02",
+      "townname": "湖西鄉"
+    },
+    {
+      "towncode": "X03",
+      "townname": "白沙鄉"
+    },
+    {
+      "towncode": "X04",
+      "townname": "西嶼鄉"
+    },
+    {
+      "towncode": "X05",
+      "townname": "望安鄉"
+    },
+    {
+      "towncode": "X06",
+      "townname": "七美鄉"
+    }
+  ],
+  "Z": [
+    {
+      "towncode": "Z01",
+      "townname": "南竿鄉"
+    },
+    {
+      "towncode": "Z02",
+      "townname": "北竿鄉"
+    },
+    {
+      "towncode": "Z03",
+      "townname": "莒光鄉"
+    },
+    {
+      "towncode": "Z04",
+      "townname": "東引鄉"
+    }
+  ]
+}
