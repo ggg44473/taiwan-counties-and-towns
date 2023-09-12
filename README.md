@@ -1,2 +1,2 @@
 # taiwan-cities-and-towns
-Fetch Taiwan cities and towns from data.gov.tw
+Fetch Taiwan cities and towns with administrative codes from data.gov.tw
