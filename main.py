@@ -17,8 +17,8 @@ def fetchCounties():
 
 
 def fetchTowns(countycode):
-    # reference: https://data.gov.tw/dataset/102013
-    url = f"https://api.nlsc.gov.tw/other/ListTown/{countycode}"
+    # reference: https://data.gov.tw/dataset/102011
+    url = f"https://api.nlsc.gov.tw/other/ListTown1/{countycode}"
     data = fetch(url)
     return data['townItems']['townItem']
 
